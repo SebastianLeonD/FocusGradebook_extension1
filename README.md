@@ -163,7 +163,7 @@ This extension uses vanilla JavaScript with no build process required. Simply lo
 
 This project is **not open-source**. Code is provided for **personal, non-commercial use only**.  
 Modification, redistribution, or commercial use is **not permitted** without permission.  
-See [LICENSE](LICENSE) for full details.
+See [LICENSE](license.txt) for full details.
 
 ---
 
